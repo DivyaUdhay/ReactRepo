@@ -9,9 +9,10 @@ function App() {
       <Message name="Mars"></Message>
       <Message name="Moon"></Message>
       <Message name="Jupiter"></Message>
+      <Message name="Jupiter"></Message>
+
     </div>
   );
-  
 }
 
 export default App;
