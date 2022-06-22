@@ -11,6 +11,7 @@ function App() {
       <Message name="Jupiter"></Message>
     </div>
   );
+  
 }
 
 export default App;
